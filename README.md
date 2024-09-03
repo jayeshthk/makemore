@@ -1,3 +1,10 @@
+# Update:
+
+Used indian names instead of prev dataset![](names.txt)
+
+# result:
+
+![](res.png) ![](res2.png)
 
 # makemore
 
